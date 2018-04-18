@@ -15,3 +15,12 @@ M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Trabajos Practicos Gomez Nicolas\T
 M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Trabajos Practicos Gomez Nicolas\TP1 Gomez Nicolas\TP1 Gomez Nicolas\obj\Debug\TP1_Gomez_Nicolas.Form1.resources
 M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Trabajos Practicos Gomez Nicolas\TP1 Gomez Nicolas\TP1 Gomez Nicolas\obj\Debug\TP1_Gomez_Nicolas.Properties.Resources.resources
 M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Trabajos Practicos Gomez Nicolas\TP1 Gomez Nicolas\TP1 Gomez Nicolas\obj\Debug\Entidades.csproj.GenerateResource.Cache
+D:\VisualStudio\Clases GOMEZ Nicolas\tp_laboratorio_2\TP1 Gomez Nicolas\TP1 Gomez Nicolas\bin\Debug\TP1 Gomez Nicolas.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\tp_laboratorio_2\TP1 Gomez Nicolas\TP1 Gomez Nicolas\obj\Debug\TP1 Gomez Nicolas.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\tp_laboratorio_2\TP1 Gomez Nicolas\TP1 Gomez Nicolas\obj\Debug\TP1 Gomez Nicolas.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\tp_laboratorio_2\TP1 Gomez Nicolas\TP1 Gomez Nicolas\bin\Debug\TP1 Gomez Nicolas.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\tp_laboratorio_2\TP1 Gomez Nicolas\TP1 Gomez Nicolas\bin\Debug\TP1 Gomez Nicolas.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\tp_laboratorio_2\TP1 Gomez Nicolas\TP1 Gomez Nicolas\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\tp_laboratorio_2\TP1 Gomez Nicolas\TP1 Gomez Nicolas\obj\Debug\TP1_Gomez_Nicolas.Form1.resources
+D:\VisualStudio\Clases GOMEZ Nicolas\tp_laboratorio_2\TP1 Gomez Nicolas\TP1 Gomez Nicolas\obj\Debug\TP1_Gomez_Nicolas.Properties.Resources.resources
+D:\VisualStudio\Clases GOMEZ Nicolas\tp_laboratorio_2\TP1 Gomez Nicolas\TP1 Gomez Nicolas\obj\Debug\Entidades.csproj.GenerateResource.Cache

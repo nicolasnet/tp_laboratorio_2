@@ -10,22 +10,19 @@ namespace TP1_Gomez_Nicolas
     {
         private double numero;
 
+
+
         #region Propiedades
 
-        public double nro
-        {
-            get
-            {
-                return this.numero;
-            }
+        private string SetNumero
+        {            
             set
             {
-                this.numero = ValidarNumero(value.ToString());
+                this.numero = ValidarNumero(value);
             }
         }
 
         #endregion
-
 
 
 
@@ -44,8 +41,8 @@ namespace TP1_Gomez_Nicolas
 
 
         public Numero(string strNumero)
-        {            
-            SetNumero(strNumero);
+        {
+            this.SetNumero = strNumero;            
         }
 
         #endregion
@@ -68,7 +65,7 @@ namespace TP1_Gomez_Nicolas
             return aux;
         }
 
-        
+        /*
         /// <summary>
         /// Setea el numero brindado en el atributo de la clase Numero.
         /// </summary>
@@ -87,7 +84,8 @@ namespace TP1_Gomez_Nicolas
         {
             return this.numero;
         }
-        
+        */
+
 
         /// <summary>
         /// Metodo que convierte un numero binario a un decimal entero.
@@ -165,7 +163,7 @@ namespace TP1_Gomez_Nicolas
             }
             else
             {
-                resultado = "Valor invalido LPM";
+                resultado = "Valor Invalido";
             }
             return resultado;
         }
