@@ -57,6 +57,7 @@
             // 
             // btnOperar
             // 
+            this.btnOperar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnOperar.Location = new System.Drawing.Point(12, 87);
             this.btnOperar.Name = "btnOperar";
             this.btnOperar.Size = new System.Drawing.Size(132, 35);

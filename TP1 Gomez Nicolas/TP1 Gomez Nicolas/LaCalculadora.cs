@@ -42,16 +42,23 @@ namespace TP1_Gomez_Nicolas
         {
             Calculadora calculo = new Calculadora();
             Numero num1 = new Numero(txtNumero1.Text);
-            Numero num2 = new Numero(txtNumero2.Text);            
+            Numero num2 = new Numero(txtNumero2.Text);
 
-            if(txtNumero2.Text == "0" && cmbOperador.Text == "/")
+            if (cmbOperador.Text == "+" || cmbOperador.Text == "-" || cmbOperador.Text == "*" || cmbOperador.Text == "/")
             {
-                lblResultado.Text = "No se puede \ndividir por cero";
+                if (txtNumero2.Text == "0" && cmbOperador.Text == "/")
+                {
+                    lblResultado.Text = "No se puede \ndividir por cero";
+                }
+                else
+                {
+                    lblResultado.Text = calculo.Operar(num1, num2, cmbOperador.Text).ToString();
+                }
             }
             else
             {
-                lblResultado.Text = calculo.Operar(num1, num2, cmbOperador.Text).ToString();
-            }            
+                lblResultado.Text = "Ingresar\nOperador valido";
+            }
         }
 
 
