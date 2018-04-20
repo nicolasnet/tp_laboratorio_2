@@ -8,6 +8,8 @@ namespace TP1_Gomez_Nicolas
 {
     public class Calculadora
     {
+        #region Metodos
+
         private static string ValidarOperador(string operador)
         {
             string respuesta = "+";
@@ -48,5 +50,7 @@ namespace TP1_Gomez_Nicolas
 
             return respuesta;
         }
+
+        #endregion
     }
 }

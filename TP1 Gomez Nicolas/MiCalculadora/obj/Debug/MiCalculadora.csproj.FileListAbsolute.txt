@@ -1,0 +1,11 @@
+M:\Nicolas\Escritorio\TP1 Gomez Nicolas INTENTO CON ERRORES\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+M:\Nicolas\Escritorio\TP1 Gomez Nicolas INTENTO CON ERRORES\MiCalculadora\obj\Debug\TP1_Gomez_Nicolas.LaCalculadora.resources
+M:\Nicolas\Escritorio\TP1 Gomez Nicolas INTENTO CON ERRORES\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+M:\Nicolas\Escritorio\TP1 Gomez Nicolas INTENTO CON ERRORES\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+M:\Nicolas\Escritorio\TP1 Gomez Nicolas INTENTO CON ERRORES\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+M:\Nicolas\Escritorio\TP1 Gomez Nicolas INTENTO CON ERRORES\MiCalculadora\bin\Debug\MiCalculadora.exe
+M:\Nicolas\Escritorio\TP1 Gomez Nicolas INTENTO CON ERRORES\MiCalculadora\bin\Debug\MiCalculadora.pdb
+M:\Nicolas\Escritorio\TP1 Gomez Nicolas INTENTO CON ERRORES\MiCalculadora\bin\Debug\TP1 Gomez Nicolas.exe
+M:\Nicolas\Escritorio\TP1 Gomez Nicolas INTENTO CON ERRORES\MiCalculadora\bin\Debug\TP1 Gomez Nicolas.pdb
+M:\Nicolas\Escritorio\TP1 Gomez Nicolas INTENTO CON ERRORES\MiCalculadora\obj\Debug\MiCalculadora.exe
+M:\Nicolas\Escritorio\TP1 Gomez Nicolas INTENTO CON ERRORES\MiCalculadora\obj\Debug\MiCalculadora.pdb

@@ -8,12 +8,19 @@ namespace TP1_Gomez_Nicolas
 {
     public class Numero
     {
+        #region Atributos
+
         private double numero;
+
+        #endregion
 
 
 
         #region Propiedades
 
+        /// <summary>
+        /// Setea una variable del tipo string, 1ro la valida y la convierte el un double de ser posible, en el atributo de la Clase "Numero".
+        /// </summary>
         private string SetNumero
         {            
             set
@@ -28,18 +35,27 @@ namespace TP1_Gomez_Nicolas
 
         #region Constructores
 
+        /// <summary>
+        /// En caso que no se desee inicializar el objeto en el momento de su creacion.
+        /// </summary>
         public Numero()
         {
 
         }
 
-
+        /// <summary>
+        /// Inicializar el objeto con una variable del tipo double.
+        /// </summary>
+        /// <param name="numero"></param> Variable del tipo double a ser seteada.
         public Numero(double numero)
         {
             this.numero = numero;
         }
 
-
+        /// <summary>
+        /// Inicializar el objeto con una variable del tipo string.
+        /// </summary>
+        /// <param name="strNumero"></param> Variable del tipo string que se valida para setear.
         public Numero(string strNumero)
         {
             this.SetNumero = strNumero;            
@@ -64,28 +80,7 @@ namespace TP1_Gomez_Nicolas
 
             return aux;
         }
-
-        /*
-        /// <summary>
-        /// Setea el numero brindado en el atributo de la clase Numero.
-        /// </summary>
-        /// <param name="strNumero"></param> Numero en string.
-        public void SetNumero(string strNumero)
-        {
-            this.numero = ValidarNumero(strNumero);            
-        }
-
-
-        /// <summary>
-        /// Retorna el atributo double numero, del objeto del tipo Numero.
-        /// </summary>
-        /// <returns></returns> Retorna el double almacenado en el atributo numero.
-        public double GetNumero()
-        {
-            return this.numero;
-        }
-        */
-
+                
 
         /// <summary>
         /// Metodo que convierte un numero binario a un decimal entero.
@@ -149,7 +144,7 @@ namespace TP1_Gomez_Nicolas
             double numero;
             string resultado = "";
 
-            if (double.TryParse(numeroStr, out numero))
+            if (double.TryParse(numeroStr, out numero) && numero >= 0)
             {
                 if (numero != 0 && numero != 1)
                 {
