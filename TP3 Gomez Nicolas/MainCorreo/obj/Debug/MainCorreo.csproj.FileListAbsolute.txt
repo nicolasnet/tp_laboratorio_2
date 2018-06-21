@@ -1,0 +1,12 @@
+M:\Nicolas\Descargas\MainCorreo\MainCorreo\bin\Debug\MainCorreo.exe.config
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\MainCorreo\bin\Debug\MainCorreo.exe.config
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\MainCorreo\bin\Debug\MainCorreo.exe
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\MainCorreo\bin\Debug\MainCorreo.pdb
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\MainCorreo\obj\Debug\MainCorreo.exe
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\MainCorreo\obj\Debug\MainCorreo.pdb
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\MainCorreo\bin\Debug\Entidades.dll
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\MainCorreo\bin\Debug\Entidades.pdb
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\MainCorreo\obj\Debug\MainCorreo.Form1.resources

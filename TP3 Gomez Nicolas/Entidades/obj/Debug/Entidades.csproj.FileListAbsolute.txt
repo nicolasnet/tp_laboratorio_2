@@ -1,0 +1,5 @@
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\Entidades\bin\Debug\Entidades.dll
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\Entidades\bin\Debug\Entidades.pdb
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\Entidades\obj\Debug\Entidades.dll
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\Entidades\obj\Debug\Entidades.pdb

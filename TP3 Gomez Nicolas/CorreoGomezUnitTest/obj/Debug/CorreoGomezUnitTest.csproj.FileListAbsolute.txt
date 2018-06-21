@@ -1,0 +1,10 @@
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\CorreoGomezUnitTest\bin\Debug\CorreoGomezUnitTest.dll
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\CorreoGomezUnitTest\bin\Debug\CorreoGomezUnitTest.pdb
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\CorreoGomezUnitTest\bin\Debug\Entidades.dll
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\CorreoGomezUnitTest\bin\Debug\MainCorreo.exe
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\CorreoGomezUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\CorreoGomezUnitTest\bin\Debug\Entidades.pdb
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\CorreoGomezUnitTest\bin\Debug\MainCorreo.pdb
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\CorreoGomezUnitTest\obj\Debug\CorreoGomezUnitTest.csprojResolveAssemblyReference.cache
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\CorreoGomezUnitTest\obj\Debug\CorreoGomezUnitTest.dll
+M:\Nicolas\Descargas\TP3 Gomez Nicolas\CorreoGomezUnitTest\obj\Debug\CorreoGomezUnitTest.pdb
